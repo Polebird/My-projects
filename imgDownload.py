@@ -41,4 +41,4 @@ for img in img_tags:
     except Exception as e:
         print(f"Failed to download {img_url}: {e}")
 
-print("✅ All images downloaded successfully!")
+
